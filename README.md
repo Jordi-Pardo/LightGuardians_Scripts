@@ -1,4 +1,4 @@
-# LightGuardians_Scripts
+# LightGuardians Scripts
 Scripts of LightGuardians Project
 
 Not available for Unity 2018 or higher
